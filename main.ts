@@ -5,5 +5,5 @@ SuperBit.enMotors.M1,
 255
 )
 basic.forever(function () {
-	
+    basic.showIcon(IconNames.Heart)
 })
